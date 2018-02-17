@@ -1,0 +1,66 @@
+*{
+	margin:0px;
+	padding:0px;
+
+
+}
+#A{border:1px solid black;
+width:3000px;
+text-align:left;
+margin:20px 0px;
+
+}
+#top_header{border:1px solid blue;
+padding:5px;
+	color:white;
+	background-color:blue;
+}
+header, section, footer, aside, nav, article, hgroup{
+	display:block;
+}
+h1{
+	font:bold 20px Tahoma;
+}
+h2{
+	font:bold 14px Tahoma;
+}
+body{
+	text-align:center;
+}
+#navig li{
+	display:inline-block;
+	padding:5px;
+}
+#navig{
+	background-color:yellow;
+}
+#maib{
+	float: left;
+width:660px;
+	margin:30px;
+}
+#side{
+	float:right;
+
+	background-color:#66cccc;
+	width:220px;
+	padding:20px;
+	margin:20px 0px;
+
+
+
+}
+#foote{
+	clear:both;
+	text-align:center;
+	border-top:1px solid red;
+	padding:10px;
+}
+article{
+	background-color:#FFFBCC;
+	border:1px solid green;
+	margin-bottom:10px;
+}
+article footer{
+	text-align:right;
+}
